@@ -1,10 +1,6 @@
 👋 Hey, I am 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Muhammad+Ahmad+Hasham;Aspiring+AI+Engineer+%7C+Machine+Learning+%7C+Python;Full+Stack+Developer+%7C+SQL+%2F+NoSQL+%7C+Cloud" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Muhammad%20Ahmad%20Hasham&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Python%20%7C%20Full%20Stack%20Developer%20%7C%20SQL%20%2F%20NoSQL%20%7C%20Cloud&descSize=18&descAlignY=60" />
 </p>
 
 🔹 About Me
