@@ -1,7 +1,8 @@
 👋 Hey, I am 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Muhammad%20Ahmad%20Hasham&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Python%20%7C%20Full%20Stack%20Developer%20%7C%20SQL%20%2F%20NoSQL%20%7C%20Cloud&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:141E30,50:243B55,100:0F2027&text=Muhammad%20Ahmad%20Hasham&fontSize=48&fontColor=00F7FF&animation=twinkling&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Python%20%7C%20Full%20Stack%20Developer%20%7C%20SQL%20%2F%20NoSQL%20%7C%20Cloud&descSize=20&descAlignY=65" />
 </p>
+
 
 🔹 About Me
 <p align="center">  Artificial Intelligence Student <br>  Passionate about AI, Machine Learning & Intelligent Systems <br>  Building intelligent and scalable systems <br>  Future AI Engineer </p>
