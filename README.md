@@ -1,6 +1,6 @@
 👋 Hey, I am 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b132b,50:1c2541,100:3a506b&text=Muhammad%20Ahmad%20Hasham&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Python%20%7C%20Full%20Stack%20Developer%20%7C%20SQL%20%2F%20NoSQL%20%7C%20Cloud&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b132b,50:1c2541,100:3a506b&text=Muhammad%20Ahmad%20Hasham&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Python%20%7C%20Full%20Stack%20Web%20Developer%20%7C%20SQL%20%2F%20NoSQL%20%7C%20Cloud&descSize=18&descAlignY=60" />
 </p>
 
 🔹 About Me
