@@ -8,7 +8,7 @@
 
 Programming Languages
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,c" /> </p>
-Full Stack Web Developmer
+Full Stack Web Developer
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" /> </p>
 AI / ML
 <p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br><br> <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=orange"/> </p>
